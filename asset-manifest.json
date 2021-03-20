@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/house-of-style/static/css/main.379af33e.chunk.css",
+    "main.js": "/house-of-style/static/js/main.a86abd59.chunk.js",
+    "main.js.map": "/house-of-style/static/js/main.a86abd59.chunk.js.map",
+    "runtime-main.js": "/house-of-style/static/js/runtime-main.c8579ae7.js",
+    "runtime-main.js.map": "/house-of-style/static/js/runtime-main.c8579ae7.js.map",
+    "static/js/2.3d5ef630.chunk.js": "/house-of-style/static/js/2.3d5ef630.chunk.js",
+    "static/js/2.3d5ef630.chunk.js.map": "/house-of-style/static/js/2.3d5ef630.chunk.js.map",
+    "static/js/3.bed5284f.chunk.js": "/house-of-style/static/js/3.bed5284f.chunk.js",
+    "static/js/3.bed5284f.chunk.js.map": "/house-of-style/static/js/3.bed5284f.chunk.js.map",
+    "index.html": "/house-of-style/index.html",
+    "static/css/main.379af33e.chunk.css.map": "/house-of-style/static/css/main.379af33e.chunk.css.map",
+    "static/js/2.3d5ef630.chunk.js.LICENSE.txt": "/house-of-style/static/js/2.3d5ef630.chunk.js.LICENSE.txt",
+    "static/media/house-of-style-video.ccc9f238.mp4": "/house-of-style/static/media/house-of-style-video.ccc9f238.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8579ae7.js",
+    "static/js/2.3d5ef630.chunk.js",
+    "static/css/main.379af33e.chunk.css",
+    "static/js/main.a86abd59.chunk.js"
+  ]
+}
