@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/house-of-style/static/css/main.4ae7007e.chunk.css",
-    "main.js": "/house-of-style/static/js/main.1f311242.chunk.js",
-    "main.js.map": "/house-of-style/static/js/main.1f311242.chunk.js.map",
-    "runtime-main.js": "/house-of-style/static/js/runtime-main.558b2415.js",
-    "runtime-main.js.map": "/house-of-style/static/js/runtime-main.558b2415.js.map",
+    "main.css": "/house-of-style/static/css/main.d3efe5ae.chunk.css",
+    "main.js": "/house-of-style/static/js/main.16524127.chunk.js",
+    "main.js.map": "/house-of-style/static/js/main.16524127.chunk.js.map",
+    "runtime-main.js": "/house-of-style/static/js/runtime-main.80af72c3.js",
+    "runtime-main.js.map": "/house-of-style/static/js/runtime-main.80af72c3.js.map",
     "static/css/2.835acb34.chunk.css": "/house-of-style/static/css/2.835acb34.chunk.css",
-    "static/js/2.0a0c9bb8.chunk.js": "/house-of-style/static/js/2.0a0c9bb8.chunk.js",
-    "static/js/2.0a0c9bb8.chunk.js.map": "/house-of-style/static/js/2.0a0c9bb8.chunk.js.map",
-    "static/js/3.284e5339.chunk.js": "/house-of-style/static/js/3.284e5339.chunk.js",
-    "static/js/3.284e5339.chunk.js.map": "/house-of-style/static/js/3.284e5339.chunk.js.map",
+    "static/js/2.066fcad9.chunk.js": "/house-of-style/static/js/2.066fcad9.chunk.js",
+    "static/js/2.066fcad9.chunk.js.map": "/house-of-style/static/js/2.066fcad9.chunk.js.map",
+    "static/js/3.19dc9cda.chunk.js": "/house-of-style/static/js/3.19dc9cda.chunk.js",
+    "static/js/3.19dc9cda.chunk.js.map": "/house-of-style/static/js/3.19dc9cda.chunk.js.map",
     "index.html": "/house-of-style/index.html",
     "static/css/2.835acb34.chunk.css.map": "/house-of-style/static/css/2.835acb34.chunk.css.map",
-    "static/css/main.4ae7007e.chunk.css.map": "/house-of-style/static/css/main.4ae7007e.chunk.css.map",
-    "static/js/2.0a0c9bb8.chunk.js.LICENSE.txt": "/house-of-style/static/js/2.0a0c9bb8.chunk.js.LICENSE.txt",
+    "static/css/main.d3efe5ae.chunk.css.map": "/house-of-style/static/css/main.d3efe5ae.chunk.css.map",
+    "static/js/2.066fcad9.chunk.js.LICENSE.txt": "/house-of-style/static/js/2.066fcad9.chunk.js.LICENSE.txt",
     "static/media/home0-1.845244aa.jpg": "/house-of-style/static/media/home0-1.845244aa.jpg",
     "static/media/home0-2.2f0d2571.jpg": "/house-of-style/static/media/home0-2.2f0d2571.jpg",
     "static/media/home0-3.29cdebbb.jpg": "/house-of-style/static/media/home0-3.29cdebbb.jpg",
     "static/media/house-of-style-video.ccc9f238.mp4": "/house-of-style/static/media/house-of-style-video.ccc9f238.mp4",
+    "static/media/languageIcon.e277c52a.svg": "/house-of-style/static/media/languageIcon.e277c52a.svg",
+    "static/media/video-poster-1.7fe8e4ed.png": "/house-of-style/static/media/video-poster-1.7fe8e4ed.png",
     "static/media/whatsapp.6809574c.png": "/house-of-style/static/media/whatsapp.6809574c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.558b2415.js",
+    "static/js/runtime-main.80af72c3.js",
     "static/css/2.835acb34.chunk.css",
-    "static/js/2.0a0c9bb8.chunk.js",
-    "static/css/main.4ae7007e.chunk.css",
-    "static/js/main.1f311242.chunk.js"
+    "static/js/2.066fcad9.chunk.js",
+    "static/css/main.d3efe5ae.chunk.css",
+    "static/js/main.16524127.chunk.js"
   ]
 }
