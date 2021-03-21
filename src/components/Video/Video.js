@@ -1,7 +1,8 @@
 import React from 'react';
 // import { Player } from 'video-react';
-import video from './media/house-of-style-video.mp4';
+import video from './house-of-style-video.mp4';
 import './Video.scss';
+import posterImg from './video-poster-1.png';
 import ReactPlayer from 'react-player';
 
 export default function Video() {
@@ -12,15 +13,9 @@ export default function Video() {
         fluid muted loop autoPlay
       /> */}
       <ReactPlayer
-        playing
-        loop
-        controls
-        muted
-        width="100%"
-        height="100%"
-        url={[
-          {src: video, type: 'video/mp4'},
-        ]}
+        config={{ file: { attributes: { poster: {posterImg} } } }}
+        playing loop controls muted
+        url={[ {src: video, type: 'video/mp4'} ]}
       />
     </div>
   )

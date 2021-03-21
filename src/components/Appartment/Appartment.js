@@ -1,10 +1,12 @@
+// https://www.npmjs.com/package/react-material-ui-carousel
+// https://github.com/wojtekmaj/react-calendar#readme
 import React, { useState } from 'react';
+import image1 from './home0-1.jpg';
+import image2 from './home0-2.jpg';
+import image3 from './home0-3.jpg';
 import Calendar from 'react-calendar';
 import Carousel from 'react-material-ui-carousel';
-import { Paper, Button } from '@material-ui/core';
-import image1 from './media/home0-1.jpg';
-import image2 from './media/home0-2.jpg';
-import image3 from './media/home0-3.jpg';
+import { Paper } from '@material-ui/core';
 import './Appartment.scss';
 import './Calendar.css';
 
@@ -12,17 +14,14 @@ export default function Appartment() {
   const [value, onChange] = useState(new Date());
   var items = [
     {
-        // name: "Random Name #1",
         src: image1,
         description: "Probably the most random thing you have ever seen!"
     },
     {
-        // name: "Random Name #2",
         src: image2,
         description: "Hello !"
     },
     {
-        // name: "Random Name #2",
         src: image3,
         description: "World !"
     }
@@ -47,12 +46,8 @@ function Item(props)
 {
     return (
         <Paper>
-            <img src={props.item.src} />
+            <img src={props.item.src} alt="house"/>
             {/* <p>{props.item.description}</p> */}
-
-            {/* <Button className="CheckButton">
-                Check it out!
-            </Button> */}
         </Paper>
     )
 }

@@ -1,17 +1,19 @@
 import React from 'react';
-import Header from './Header';
-import Appartments from './Appartments';
-import Contact from './Contact';
-import VideoBG from './Video';
-import WhatsappIcon from './WhatsappIcon';
+import Header from './components/Header/Header';
+import Appartments from './components/Appartments/Appartments';
+import Contact from './components/Contact/Contact';
+import VideoBG from './components/Video/Video';
+import WhatsappIcon from './components/WhatsappIcon/WhatsappIcon';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <VideoBG />
-      <Appartments />
-      <Contact />
+      <div style={{position: 'absolute', width: '100%',  marginTop: '45vh'}}>
+        <Appartments />
+        <Contact />
+      </div>
       <WhatsappIcon />
     </div>
   );
