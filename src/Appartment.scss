@@ -1,0 +1,30 @@
+.appartment {
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem;
+  
+  .carousel {
+    height: 400px;
+    img {
+      object-fit: cover;
+      height: 400px;
+      width: 600px;
+    }
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .appartment {
+    padding: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    // align-items: center;
+    .carousel {
+      height: 300px;
+      img {
+        height: 300px;
+      }
+    }
+  }
+}

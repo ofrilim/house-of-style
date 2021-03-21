@@ -3,6 +3,7 @@ import Header from './Header';
 import Appartments from './Appartments';
 import Contact from './Contact';
 import VideoBG from './Video';
+import WhatsappIcon from './WhatsappIcon';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <VideoBG />
       <Appartments />
       <Contact />
+      <WhatsappIcon />
     </div>
   );
 }
